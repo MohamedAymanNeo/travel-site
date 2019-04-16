@@ -8,6 +8,11 @@
         left:0;
         width:100%;
         text-align:center;
+        padding-top:88px;
+        
+        @mixixn atMedium {
+            padding: 60px;
+        }
     }
     &__title {
         font-weight:300;
